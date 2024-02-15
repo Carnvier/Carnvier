@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Carnvier
 - 👀 I’m interested in coding and really fancy technology
-- 🌱 I’m currently learning python and java  
-- 💻 I am a CS student. I have knowledge of html, css and c programming.
+- 🌱 I’m currently learning Python and Java  
+- 💻 I am a CS student. I have knowledge of html, CSS and C programming.
 - 💞️ I’m looking to collaborate on various software development projects and up for the task to learn new skills  
 - 📫 How to reach me: denzelkudagrison@gmail.com
 - 😄 Pronouns: He
