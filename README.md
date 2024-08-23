@@ -35,12 +35,11 @@ Pronouns: He/Him
 !GitHub Stars
 
 ## 🎨 Projects:
-- Project 1: Brief description of your project.
-- Project 2: Brief description of your project.
-- Project 3: Brief description of your project.
+- ERP System: An ERP system used to track purchases, stock, sales, and customers, as well as produce monthly financial reports.
+- Library System: A library system used to track stock and borrowed books, with a POS system to sell books to students.
 
 !Footer
-
+> "The only way to do great work is to love what you do." - Steve Jobs
 <!---
 Carnvier/Carnvier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
