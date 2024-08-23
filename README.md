@@ -8,33 +8,32 @@ I'm passionate about building scalable web applications and learning new technol
 Pronouns: He/Him
 
 ## 🚀 Languages & Tools:
-!HTML5
-!CSS3
-!Python
-!Django
-!PHP
+- HTML5
+- CSS3
+- Python
+- Django
+- PHP
 
 ## 📫 Contact Me:
 - Email: denzelkudagrison@gmail.com
-- LinkedIn: Your LinkedIn Profile
-- GitHub: Your GitHub Profile
+- LinkedIn: www.linkedin.com/in/denzel-grison-1a91b3276
+- GitHub: https://github.com/Carnvier
 
 ## 🌟 About Me:
-- 💞️ I’m looking to collaborate on various software development projects and up for the task to learn new skills.
-- ⚡ Fun fact: Sunset walks on the beach are the perfect way to end my day.
-- 🌱 Currently learning: React and Node.js
-- 🏆 Achievements: Built a full-stack e-commerce application, contributed to open-source projects.
+- I’m looking to collaborate on various software development projects and up for the task to learn new skills.
+-  Fun fact: Sunset walks on the beach are the perfect way to end my day.
+<!--- 🌱 Currently learning: React and Node.js
+- 🏆 Achievements: Built a full-stack e-commerce application and contributed to open-source projects.-->
 
 ## 📊 GitHub Stats:
 [![Denzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=carnvier&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carnvier&langs_count=8&show_icons=true&theme=radical)](https://github.com/carnvier/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=carnvier)](https://github.com/carnvier/github-readme-stats)
-## 🏅 Badges:
+<!--## 🏅 Badges:
 !Visitor Badge
 !GitHub Followers
-!GitHub Stars
+!GitHub Stars-->
 
 ## 🎨 Projects:
 - ERP System: An ERP system used to track purchases, stock, sales, and customers, as well as produce monthly financial reports.
