@@ -30,7 +30,7 @@ Pronouns: He/Him
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carnvier&langs_count=8&show_icons=true&theme=radical)](https://github.com/carnvier/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CARNVIER)](https://github.com/carnvier/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=carnvier)](https://github.com/carnvier/github-readme-stats)
 ## 🏅 Badges:
 !Visitor Badge
 !GitHub Followers
