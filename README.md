@@ -1,4 +1,4 @@
-# Hello, I'm Denzel Grison
+# Hello There, 
 
 - 👋 Hi, I’m @Carnvier
 - 👀 I’m interested in coding and really fancy technology
