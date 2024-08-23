@@ -28,7 +28,7 @@ Pronouns: He/Him
 ## 📊 GitHub Stats:
 ![Denzel's GitHub stats](https://github-readme-stats.vercel.app/api)
 ![Top Langs](https://github-readme-stats.vercel.app/api)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carnvier)](https://github.com/carnvier/github-readme-stats)
 ## 🏅 Badges:
 !Visitor Badge
 !GitHub Followers
