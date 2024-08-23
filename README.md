@@ -26,7 +26,8 @@ Pronouns: He/Him
 - 🏆 Achievements: Built a full-stack e-commerce application, contributed to open-source projects.
 
 ## 📊 GitHub Stats:
-[![Denzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=carnvier)](https://github.com/carnvier/github-readme-stats)
+[![Denzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=carnvier)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api)
 
 ## 🏅 Badges:
