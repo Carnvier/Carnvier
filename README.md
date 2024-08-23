@@ -1,14 +1,18 @@
 # Hello There 👋 I'm Denzel Kudakwashe Grison
-Software Enthusiast, CS Undergrad and  Web Fullstack Developer
-### Languages
+  Software Enthusiast, CS Undergrad and  Web Fullstack Developer
+  Pronouns: He
+## Languages:
 - HTML and CSS
 - Python
 - Django
 - Php
 
+## Contact Me:
+- Email: denzelkudagrison@gmail.com
+
+
 - 💞️ I’m looking to collaborate on various software development projects and up for the task to learn new skills  
-- 📫 How to reach me: denzelkudagrison@gmail.com
-- 😄 Pronouns: He
+
 - ⚡ Fun fact: Sunset walks on the beach are the perfect way to end my day
 
 <!---
