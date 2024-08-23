@@ -26,8 +26,8 @@ Pronouns: He/Him
 - 🏆 Achievements: Built a full-stack e-commerce application, contributed to open-source projects.
 
 ## 📊 GitHub Stats:
-!Denzel's GitHub stats
-!Top Langs
+![Denzel's GitHub stats](https://github-readme-stats.vercel.app/api)
+![Top Langs](https://github-readme-stats.vercel.app/api)
 
 ## 🏅 Badges:
 !Visitor Badge
