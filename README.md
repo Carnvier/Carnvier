@@ -1,5 +1,5 @@
 # Hello There 👋 I'm Denzel Kudakwashe Grison
-## Software Enthusiast, CS Undergrad and  Web Fullstack Developer
+Software Enthusiast, CS Undergrad and  Web Fullstack Developer
 ### Languages
 - HTML and CSS
 - Python
