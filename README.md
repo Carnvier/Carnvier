@@ -1,7 +1,7 @@
 # Hello There 👋 I'm Denzel Kudakwashe Grison
 ### Software Enthusiast | CS Undergrad | Web Fullstack Developer
 
-!Profile Banner
+<!--!Profile Banner-->
 
 I'm passionate about building scalable web applications and learning new technologies. Currently, I'm focused on mastering full-stack development and contributing to open-source projects.
 
@@ -39,7 +39,7 @@ Pronouns: He/Him
 - ERP System: An ERP system used to track purchases, stock, sales, and customers, as well as produce monthly financial reports.
 - Library System: A library system used to track stock and borrowed books, with a POS system to sell books to students.
 
-!Footer
+<!--!Footer-->
 > "The only way to do great work is to love what you do." - Steve Jobs
 <!---
 Carnvier/Carnvier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
