@@ -1,3 +1,5 @@
+# Hello, I'm Denzel Grison
+
 - 👋 Hi, I’m @Carnvier
 - 👀 I’m interested in coding and really fancy technology
 - 🌱 I’m currently learning Python and Java  
