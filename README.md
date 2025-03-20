@@ -25,11 +25,6 @@ Pronouns: He/Him
 <!--- 🌱 Currently learning: React and Node.js
 - 🏆 Achievements: Built a full-stack e-commerce application and contributed to open-source projects.-->
 
-## 📊 GitHub Stats:
-[![Denzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=carnvier&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carnvier&langs_count=8&show_icons=true&theme=radical)](https://github.com/carnvier/github-readme-stats)
-
 <!--## 🏅 Badges:
 !Visitor Badge
 !GitHub Followers
@@ -38,6 +33,7 @@ Pronouns: He/Him
 ## 🎨 Projects:
 - ERP System: An ERP system used to track purchases, stock, sales, and customers, as well as produce monthly financial reports.
 - Library System: A library system used to track stock and borrowed books, with a POS system to sell books to students.
+- Crypto Project: A Desktop Crypto-Currency Trading Project that utilises APIs to get data on current stock prices from the web and use the data to determine user's profit or loss based on past buys in assets.
 
 <!--!Footer-->
 > "The only way to do great work is to love what you do." - Steve Jobs
