@@ -10,9 +10,13 @@ Pronouns: He/Him
 ## 🚀 Languages & Tools:
 - HTML5
 - CSS3
+- Javascript
+- React
+- Nodejs
 - Python
 - Django
-- PHP
+- JAVA
+- C#
 
 ## 📫 Contact Me:
 - Email: denzelkudagrison@gmail.com
