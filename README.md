@@ -15,7 +15,7 @@ Pronouns: He/Him
 - Nodejs
 - Python
 - Django
-- JAVA
+- Java
 - C#
 
 ## 📫 Contact Me:
